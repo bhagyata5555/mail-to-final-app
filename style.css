@@ -1,0 +1,66 @@
+body {
+    text-align: center
+}
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color:greenyellow;
+}
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+#game {
+  width: 100%;
+    height: 800px;
+    background-color:yellow;  
+}
+img {
+    transition: transform .2sec;
+}
+img:hover {
+    transform: scale(0.9);
+}
+.line {
+  height: 6px;
+    width: 70px;
+color: blueviolet;
+    margin: 8px auto;
+}
+#dice {
+    height: 220px;
+    width: 250px;
+}
+#chatbot {
+   width: 100%;
+    height:1000px;
+    background-color:hotpink;    
+}
+#social_media {
+   width: 100%;
+    height: 1000px;
+    background-color:mediumpurple;    
+} 
+#pin {
+    height: 150px;
+    width: 200px; 
+}
+
+h2 {
+    font-size: 40px;
+    color: yellow;
+}
+h3 {
+    font-style: italic;
+     font-size: 40px;
+}
+#maps iframe {
+ width: 100% ; 
+  background-color:green;     
+}
+#contact h3 {
+ display: inline;   
+}
+.contact a {
+ color: cornflowerblue ;    
+}
